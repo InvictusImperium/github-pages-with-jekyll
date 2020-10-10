@@ -1,5 +1,5 @@
 ---
-title: Learned
+title: "Learned"
 date: 2020-10-10
 ---
 
